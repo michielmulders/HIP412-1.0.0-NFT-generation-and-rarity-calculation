@@ -1,0 +1,29 @@
+{
+    "name": "My NFT Collection",
+    "creator": "Anonymous",
+    "description": "My first nft on Hedera",
+    "image": "",
+    "type": "",
+    "format": "HIP412@1.0.0",
+    "properties": {},
+    "files": [],
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red"
+        },
+        {
+            "trait_type": "tattoo",
+            "value": "none"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "black sweater"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "standard"
+        }
+    ],
+    "localization": {}
+}

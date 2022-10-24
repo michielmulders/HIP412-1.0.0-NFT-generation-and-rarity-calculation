@@ -1,0 +1,61 @@
+{
+    "size": 100,
+
+    "name": "My NFT Collection",
+    "creator": "Anonymous",
+    "description": "My first nft on Hedera",
+
+    "attributes": [
+        {
+            "trait_type": "background",
+            "keys": [
+                "yellow",
+                "red",
+                "blue",
+                "gold"
+            ],
+            "values": [
+                50, 30, 15, 5
+            ]
+        },
+        {
+            "trait_type": "tattoo",
+            "keys": [
+                "none",
+                "smiley",
+                "hedera logo"
+            ],
+            "values": [
+                80, 10, 10
+            ]
+        },
+        {
+            "trait_type": "clothing",
+            "keys": [
+                "red polo",
+                "greent shirt",
+                "black sweater",
+                "grey shirt",
+                "black dress",
+                "orange tshirt",
+                "hawaii shirt"
+            ],
+            "values": [
+                40, 20, 20, 8, 7, 3, 2
+            ]
+        },
+        {
+            "trait_type": "mouth",
+            "keys": [
+                "standard",
+                "smiling",
+                "angry",
+                "donut",
+                "sad"
+            ],
+            "values": [ 
+                70, 10, 10, 7, 3
+            ]
+        }
+    ]
+}
